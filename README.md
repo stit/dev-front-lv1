@@ -12,11 +12,13 @@ Somos uma empresa colaborativa, com equipes multidisciplinares, que trabalham be
 
 # Sobre a Vaga
 
+Desenvolvedor front-end que esteja iniciando a carreira, que tenha bastante vontade de aprender não só tecnologias de front-end mas sim tecnologias de desenvolvimento.
+
+**Não é necessário experiência** no mercado de trabalho, mas é interessante que a pessoa tenha alguma experiência acadêmica ou de experimentação.
+
 ## Requisitos
 
-Experiencia de experimentação ou academia
-
-Conhecimento mesmo que superfial nas seguintes tecnologias:
+Conhecimento mesmo que superficial nas seguintes tecnologias:
 - HTML
 - CSS
 - Javascript
