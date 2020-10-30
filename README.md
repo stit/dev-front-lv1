@@ -47,7 +47,7 @@ Link da api para membros do repositório da AWS: https://api.github.com/orgs/aws
 Link para acesso do perfil de um membro do Github: https://api.github.com/users/:usergithub
 
 ### Como realizar o teste?
-Faça um fork desse projeto contento a estrutura inicial, e desenvolva a partir dela, use as bibliotecas que julgar necessárias, mas seria interessante se não usar frameworks de CSS (Cascade Style Sheet).
+Faça um fork desse projeto contento a estrutura inicial, e desenvolva a partir dela, use as bibliotecas que julgar necessário, mas seria interessante se não usar frameworks de CSS (Cascade Style Sheet).
 
 ### Como devo entregar o projeto?
 Para entregar suba o projeto em seu próprio Github em um repositório separado, que seja publico e envie o link para seu contato no RH.
